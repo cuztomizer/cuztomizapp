@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cuztomizapp-dev-45346-authRole",
+      "UnauthRoleArn": "arn:aws:iam::068955829674:role/amplify-cuztomizapp-dev-45346-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::068955829674:role/amplify-cuztomizapp-dev-45346-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cuztomizapp-dev-45346-deployment",
+      "UnauthRoleName": "amplify-cuztomizapp-dev-45346-unauthRole",
+      "StackName": "amplify-cuztomizapp-dev-45346",
+      "StackId": "arn:aws:cloudformation:us-east-1:068955829674:stack/amplify-cuztomizapp-dev-45346/a1049700-233a-11eb-bfb5-1246411399d1",
+      "AmplifyAppId": "d3d8o3ry0ji2r3"
+    },
+    "categories": {
+      "auth": {
+        "cuztomizapp1f197311": {}
+      }
+    }
+  }
+}

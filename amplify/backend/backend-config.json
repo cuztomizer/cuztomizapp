@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cuztomizapp1f197311": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
