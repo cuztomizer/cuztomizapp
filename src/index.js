@@ -7,13 +7,6 @@ import Amplify from 'aws-amplify';
 import config from './aws-exports';
 Amplify.configure(config);
 
-// styles
-
-// import "./assets/css/paper-kit.css";
-// import "./assets/scss/paper-kit.scss?v=1.2.0";
-// import NucleoIcons from "./views/NucleoIcons.js";
-
-
 
 ReactDOM.render(
   <React.StrictMode>
